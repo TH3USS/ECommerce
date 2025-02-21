@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\EComerce\\ECommerceFactory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFFF148-A673-4898-8BE2-A11DE8262A69}|ECommerceFactory\\ECommerceFactory.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\ecomerce\\ecommercefactory\\ecommercefactory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9AFFF148-A673-4898-8BE2-A11DE8262A69}|ECommerceFactory\\ECommerceFactory.csproj|solutionrelative:ecommercefactory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFFF148-A673-4898-8BE2-A11DE8262A69}|ECommerceFactory\\ECommerceFactory.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\ecomerce\\ecommercefactory\\ecommercefactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFFF148-A673-4898-8BE2-A11DE8262A69}|ECommerceFactory\\ECommerceFactory.csproj|solutionrelative:ecommercefactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFFF148-A673-4898-8BE2-A11DE8262A69}|ECommerceFactory\\ECommerceFactory.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\ecomerce\\ecommercefactory\\ecommercefactory\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFFF148-A673-4898-8BE2-A11DE8262A69}|ECommerceFactory\\ECommerceFactory.csproj|solutionrelative:ecommercefactory\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFFF148-A673-4898-8BE2-A11DE8262A69}|ECommerceFactory\\ECommerceFactory.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\ecomerce\\ecommercefactory\\ecommercefactory\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFFF148-A673-4898-8BE2-A11DE8262A69}|ECommerceFactory\\ECommerceFactory.csproj|solutionrelative:ecommercefactory\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFFF148-A673-4898-8BE2-A11DE8262A69}|ECommerceFactory\\ECommerceFactory.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\ecomerce\\ecommercefactory\\ecommercefactory\\factories\\productfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFFF148-A673-4898-8BE2-A11DE8262A69}|ECommerceFactory\\ECommerceFactory.csproj|solutionrelative:ecommercefactory\\factories\\productfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFFF148-A673-4898-8BE2-A11DE8262A69}|ECommerceFactory\\ECommerceFactory.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\ecomerce\\ecommercefactory\\ecommercefactory\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFFF148-A673-4898-8BE2-A11DE8262A69}|ECommerceFactory\\ECommerceFactory.csproj|solutionrelative:ecommercefactory\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFFF148-A673-4898-8BE2-A11DE8262A69}|ECommerceFactory\\ECommerceFactory.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\ecomerce\\ecommercefactory\\ecommercefactory\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFFF148-A673-4898-8BE2-A11DE8262A69}|ECommerceFactory\\ECommerceFactory.csproj|solutionrelative:ecommercefactory\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFFF148-A673-4898-8BE2-A11DE8262A69}|ECommerceFactory\\ECommerceFactory.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\ecomerce\\ecommercefactory\\ecommercefactory\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AFFF148-A673-4898-8BE2-A11DE8262A69}|ECommerceFactory\\ECommerceFactory.csproj|solutionrelative:ecommercefactory\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFFF148-A673-4898-8BE2-A11DE8262A69}|ECommerceFactory\\ECommerceFactory.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\ecomerce\\ecommercefactory\\ecommercefactory\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AFFF148-A673-4898-8BE2-A11DE8262A69}|ECommerceFactory\\ECommerceFactory.csproj|solutionrelative:ecommercefactory\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFFF148-A673-4898-8BE2-A11DE8262A69}|ECommerceFactory\\ECommerceFactory.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\ecomerce\\ecommercefactory\\ecommercefactory\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFFF148-A673-4898-8BE2-A11DE8262A69}|ECommerceFactory\\ECommerceFactory.csproj|solutionrelative:ecommercefactory\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\EComerce\\ECommerceFactory\\ECommerceFactory\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ECommerceFactory\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\EComerce\\ECommerceFactory\\ECommerceFactory\\Models\\Product.cs",
+              "RelativeToolTip": "ECommerceFactory\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:58:16.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\EComerce\\ECommerceFactory\\ECommerceFactory\\Factories\\ProductFactory.cs",
+              "RelativeDocumentMoniker": "ECommerceFactory\\Factories\\ProductFactory.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\EComerce\\ECommerceFactory\\ECommerceFactory\\Factories\\ProductFactory.cs",
+              "RelativeToolTip": "ECommerceFactory\\Factories\\ProductFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:58:36.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\EComerce\\ECommerceFactory\\ECommerceFactory\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ECommerceFactory\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\EComerce\\ECommerceFactory\\ECommerceFactory\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ECommerceFactory\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T20:45:52.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\EComerce\\ECommerceFactory\\ECommerceFactory\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerceFactory\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\EComerce\\ECommerceFactory\\ECommerceFactory\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ECommerceFactory\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T20:45:28.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\EComerce\\ECommerceFactory\\ECommerceFactory\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ECommerceFactory\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\EComerce\\ECommerceFactory\\ECommerceFactory\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ECommerceFactory\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:44:57.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\EComerce\\ECommerceFactory\\ECommerceFactory\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ECommerceFactory\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\EComerce\\ECommerceFactory\\ECommerceFactory\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ECommerceFactory\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:01:57.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\EComerce\\ECommerceFactory\\ECommerceFactory\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ECommerceFactory\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\EComerce\\ECommerceFactory\\ECommerceFactory\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ECommerceFactory\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:01:20.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\EComerce\\ECommerceFactory\\ECommerceFactory\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ECommerceFactory\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\EComerce\\ECommerceFactory\\ECommerceFactory\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "ECommerceFactory\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:00:39.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\EComerce\\ECommerceFactory\\ECommerceFactory\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceFactory\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\EComerce\\ECommerceFactory\\ECommerceFactory\\Program.cs",
+              "RelativeToolTip": "ECommerceFactory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:57:42.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\EComerce\\ECommerceFactory\\ECommerceFactory\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerceFactory\\appsettings.json",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\EComerce\\ECommerceFactory\\ECommerceFactory\\appsettings.json",
+              "RelativeToolTip": "ECommerceFactory\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-15T19:56:25.029Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 340,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

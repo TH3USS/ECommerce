@@ -1,0 +1,20 @@
+﻿@model IEnumerable<Product>
+
+<h2>Lista de Produtos</h2>
+<table>
+    <tr>
+        <th>Nome</th>
+        <th>Descrição</th>
+        <th>Preço</th>
+    </tr>
+    @foreach (var product in Model)
+    {
+        <tr>
+            <td>@product.Name</td>
+            <td>@product.Description</td>
+            <td>@product.Price</td>
+        </tr>
+    }
+</table>
+
+<a href="/Product/Create">Cadastrar Novo Produto</a>
